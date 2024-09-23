@@ -26,7 +26,7 @@ Step 6. Use the slope m and the y -intercept to form the equation of the line.
 Step 7. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 Step 8. Stop.
-   <br>
+   <br><br>
 ## Program:
 ```
 import numpy as np
@@ -49,7 +49,7 @@ plt.scatter(X,Y)
 plt.plot(X,Y_predicted,color='red') 
 plt.show()
 ```
-
+<br><br>
 ## Output:
 ![ml ex1](https://github.com/user-attachments/assets/c4405cfa-603b-49be-b913-2cff7e907718)
 
