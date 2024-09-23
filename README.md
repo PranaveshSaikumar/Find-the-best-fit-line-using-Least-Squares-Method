@@ -29,9 +29,9 @@ Step 8. Stop.
    <br><br>
 ## Program:
 ```
-/*code to implement univariate Linear Regression to fit a straight line using least squares.
+/* code to implement univariate Linear Regression to fit a straight line using least squares.
 Name: Pranavesh Saikumar
-Reg no: 212223040149*/
+Reg no: 212223040149 */
 
 import numpy as np
 import matplotlib.pyplot as plt
